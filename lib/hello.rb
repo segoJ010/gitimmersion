@@ -1,6 +1,6 @@
 require 'greeter'
 
-# Default is World
+#Default is "World"
 #Author: Juan Segoviano (jsegovi1@uncc.edu)
 name = ARGV.first || "World"
 
